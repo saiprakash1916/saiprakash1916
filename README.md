@@ -5,7 +5,7 @@
 * 🔐 Specialized in Java, Spring Boot, Security, and REST APIs
 * 🧠 Strong in system optimization & automation
 * 🚀 Built SmartPay Platform (JWT Auth + RBAC + Refresh Tokens)
-* 🌱 Currently learning Microservices & Cloud (AWS, Docker, Kubernetes)
+* 🌱 Currently learning Microservices & Cloud (AWS, Docker, Kubernetes), exploring AI tools, and expanding into frontend technologies to grow as a Full Stack Developer.
 
 
 ## 🌐 Socials:
