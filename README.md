@@ -42,4 +42,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
+## 🏆 Certifications:
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-black?style=for-the-badge&logo=github&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
